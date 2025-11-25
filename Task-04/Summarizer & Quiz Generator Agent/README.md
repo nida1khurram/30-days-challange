@@ -1,4 +1,4 @@
-https://quiz-agent2.streamlit.app/
+# Streamlit App: [Quiz Agent](https://quiz-agent2.streamlit.app/)
 
 # Study Notes Summarizer & Quiz Generator Agent
 
