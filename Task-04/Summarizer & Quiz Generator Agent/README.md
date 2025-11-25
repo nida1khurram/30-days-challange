@@ -1,3 +1,5 @@
+https://quiz-agent2.streamlit.app/
+
 # Study Notes Summarizer & Quiz Generator Agent
 
 A powerful AI agent by **Nida Khurram** that summarizes PDF study materials and generates interactive quizzes—perfect for students and learners! This tool leverages the Gemini API and is designed for easy use with a Streamlit web interface.
